@@ -1,11 +1,11 @@
-## <div align="center">I'm Lucas Ribottaa full-time full-stack developer 👨‍💻 working remotely since 2023 🚀 </div>
+## <div align="center">I'm Gonzalo Cuellar Aliaga full-time full-stack developer 👨‍💻 working remotely since 2023 🚀 </div>
 
 
 - 🔭 I’m currently working on [Parcels app](https://parcelas.vercel.app/)  
 
 - 🌱 I’m currently learning Nuxt and Microservices
 
-- ❓ You can Email Me Through [Here](lucasribotta15@gmail.com)
+- ❓ You can Email Me Through [Here](mailto:gonzaliaga@gmail.com)
 
 - ⚡ Fun fact: I use tabs over spaces 
 
@@ -57,13 +57,13 @@
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/LucasRibotta" target="_blank">
+<a href="https://github.com/gonzaliaga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/lucas-ribotta" target="_blank">
+<a href="https://linkedin.com//in/gonzalo-cuellar-aliaga-4530559a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/lucasribotta7/" target="_blank">
+<a href="https://www.instagram.com/gonzacuellaraliaga/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   
 </div>
