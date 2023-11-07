@@ -1,10 +1,10 @@
-<div align="center">I'm Gonzalo, a Full Stack Developer with a strong background in BackEnd 🖥️ </div>  
+# <div align="center">I'm Gonzalo, a Full Stack Developer with a strong background in BackEnd 🖥️ </div>  
   
 
 <div align="center">🚀 Welcome to my Github space!!😁</div>  
   
 
-- 🍔 I’m currently working on FastFood, A project where I use TypeScript (TS), Express, MongoDB, Zod and Cors to build a BackEnd CRUD. [FastFood Repository](https://github.com/gonzaliaga/FastFood-Nuevo-TRCP-CRUD-TS.git)  
+- 🍔 I’m currently working on FastFood a project where I use TypeScript (TS), Express, MongoDB, Zod and Cors to build a BackEnd CRUD. [FastFood Repository](https://github.com/gonzaliaga/FastFood-Nuevo-TRCP-CRUD-TS.git)  
   
 
 - 🏗️📗 Currently deepening my knowledge in TypeScript, NodeJS, React, ExpressJS, TRPC, and everything related to BackEnd  
